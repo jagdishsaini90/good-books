@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   width: 60vw;
+  margin-top: 3rem;
 }
 .block {
   border: 1px solid grey;
